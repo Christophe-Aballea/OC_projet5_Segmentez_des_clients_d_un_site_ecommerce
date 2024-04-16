@@ -2,6 +2,9 @@
 ## Notebook 1 - Requêtes SQL pour dashboard  
 
 
+#### 16-04 19:48  
+* Correction Sommaire
+
 #### 16-04 18:01  
 * Ajout Requête 4  
 
@@ -17,6 +20,6 @@
 #### 15-04 23:59  
 * Ajout "2.2.1 Analyse de la présentation du jeu de données"  
 * Mise à jour schéma relationnel
-* Correction passage variable `most_recent_date` en paramètre rq 1  
+* Correction passage variable `most_recent_date` en paramètre requête 1  
 
 
