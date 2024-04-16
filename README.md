@@ -2,6 +2,9 @@
 ## Notebook 1 - Requêtes SQL pour dashboard  
 
 
+#### 16-04 18:01  
+* Ajout Requête 4  
+
 #### 16-04 15:23  
 * Ajout Requête 3  
 
