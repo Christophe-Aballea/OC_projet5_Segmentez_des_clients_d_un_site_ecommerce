@@ -2,6 +2,9 @@
 ## Notebook 1 - Requêtes SQL pour dashboard  
 
 
+#### 16-04 09:30 :
+* Correction relation `customer_id` sur le schéma relationnel
+
 #### 16-04 08:37 :
 * Requête 2
 
