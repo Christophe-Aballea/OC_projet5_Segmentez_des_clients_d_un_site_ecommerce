@@ -1,10 +1,14 @@
 # OC Projet 5 - Segmentez des clients d'un site ecommerce  
-## Notebook 1 - Requêtes SQL pour dashboard  
+
+## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
-#### 16-04 21:06
-* Dépot Notebook 2 : Analyse exploratoire et premier featur ingineering
+#### 16-04 21:06  
+* Dépot Notebook 2 : Analyse exploratoire et premier feature ingineering  
 * Début du Sommaire, préparation de l'environnement, connexion à la BDD
+
+  
+## Notebook 1 - Requêtes SQL pour dashboard  
 
 #### 16-04 19:48  
 * Correction Sommaire
