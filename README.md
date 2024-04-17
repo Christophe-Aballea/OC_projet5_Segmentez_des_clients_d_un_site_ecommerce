@@ -3,6 +3,11 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 17-04 16:54  
+* Ajout fonction `f_query_result()` : renvoit résultat requête SQL sous forme de dataframe
+* Ajout fonction `transform_data_types`  
+* Ajout fonction `get_dataframe_infos()`  
+
 #### 17-04 12:17  
 * Changement de fonctionnement : 'ipython-sql' -> librairie 'sqlite3'
 * Ajout fonction `query_result()`  
