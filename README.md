@@ -6,7 +6,8 @@
 #### 17-04 23:20  
 * Ajout fonction `plot_distribution()` : histogramme + boxplot
 * Début analyse univariée table `orders`
-* Traitement valeurs manquantes order_purchase_timestamp, order_approved_at, order_delivered_carrier_date, order_delivered_customer_date, order_estimated_delivery_date
+* Traitement valeurs manquantes `order_approved_at`, `order_delivered_carrier_date`, `order_delivered_customer_date`  
+* Ajout features `approval_delay` et `shipping_preparation_delay`
 
 
 #### 17-04 16:54  
