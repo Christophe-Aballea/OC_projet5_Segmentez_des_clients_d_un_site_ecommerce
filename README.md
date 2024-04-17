@@ -3,6 +3,11 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 17-04 12:17  
+* Changement de fonctionnement : 'ipython-sql' -> librairie 'sqlite3'
+* Ajout fonction `query_result()`  
+* Afout fonction `describe_table()`  
+
 #### 16-04 21:06  
 * Dépot Notebook 2 : Analyse exploratoire et premier feature ingineering  
 * Début du Sommaire, préparation de l'environnement, connexion à la BDD
