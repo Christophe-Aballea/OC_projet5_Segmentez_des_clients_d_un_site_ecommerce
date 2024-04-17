@@ -3,9 +3,15 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 17-04 23:20  
+* Ajout fonction `plot_distribution()` : histogramme + boxplot
+* Début analyse univariée table `orders`
+* Traitement valeurs manquantes order_purchase_timestamp, order_approved_at, order_delivered_carrier_date, order_delivered_customer_date, order_estimated_delivery_date
+
+
 #### 17-04 16:54  
 * Ajout fonction `f_query_result()` : renvoit résultat requête SQL sous forme de dataframe
-* Ajout fonction `transform_data_types`  
+* Ajout fonction `transform_data_types()`  
 * Ajout fonction `get_dataframe_infos()`  
 
 #### 17-04 12:17  
