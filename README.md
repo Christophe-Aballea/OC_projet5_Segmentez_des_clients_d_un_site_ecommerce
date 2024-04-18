@@ -3,9 +3,12 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 18-04 10:00  
+* Ajout 'x_label' et 'y_label' fonction `plot_distribution()`  
+
 #### 18-04 08:40  
 * Modification fonction `transform_data_types()` : ajout transformation en type 'category'
-* Ajout verificiation des transformations dans l'analyse univariées table `orders`
+* Ajout vérificiation des transformations dans l'analyse univariées table `orders`
 * Début analyse univariée table `order_items`  
 
 #### 18-04 07:53  
