@@ -3,7 +3,9 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
-
+#### 19-04 00:55  
+* Analyses univariées table `order_pymts`
+  
 #### 18-04 17:25  
 * Analyses univariées table `order_items`  
 
