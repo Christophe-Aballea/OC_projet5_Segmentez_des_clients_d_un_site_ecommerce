@@ -3,8 +3,12 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 18-04 15:15  
+* Ajout `df_order_products`
+* Ajout `df_product_summary`  
+
 #### 18-04 10:00  
-* Ajout 'x_label' et 'y_label' fonction `plot_distribution()`  
+* Ajout 'x_label' et 'y_label' fonction `plot_distribution()`
 
 #### 18-04 08:40  
 * Modification fonction `transform_data_types()` : ajout transformation en type 'category'
