@@ -3,6 +3,10 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+
+#### 18-04 17:25  
+* Analyses univariées table `order_items`  
+
 #### 18-04 15:15  
 * Ajout `df_order_products`
 * Ajout `df_product_summary`  
@@ -13,14 +17,14 @@
 #### 18-04 08:40  
 * Modification fonction `transform_data_types()` : ajout transformation en type 'category'
 * Ajout vérificiation des transformations dans l'analyse univariées table `orders`
-* Début analyse univariée table `order_items`  
+* Début analyses univariées table `order_items`  
 
 #### 18-04 07:53  
-* Fin analyse univariée table `orders`
+* Fin analyses univariées table `orders`
 
 #### 17-04 23:20  
 * Ajout fonction `plot_distribution()` : histogramme + boxplot
-* Début analyse univariée table `orders`
+* Début analyses univariées table `orders`
 * Traitement valeurs manquantes `order_approved_at`, `order_delivered_carrier_date`, `order_delivered_customer_date`  
 * Ajout features `approval_delay` et `shipping_preparation_delay`
 
