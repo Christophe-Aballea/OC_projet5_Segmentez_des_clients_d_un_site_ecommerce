@@ -3,6 +3,10 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 19-04 21:26  
+* Début analyses univariée table `products`
+* Dernier dépot de cette version du notebook
+
 #### 19-04 13:57  
 * Analyses univariées table `order_reviews`  
 
