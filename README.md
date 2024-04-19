@@ -3,6 +3,9 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 19-04 13:57  
+* Analyses univariées table `order_reviews`  
+
 #### 19-04 10:01  
 * Analyses univariées table `order_reviews`, champ `review_score`  
 
