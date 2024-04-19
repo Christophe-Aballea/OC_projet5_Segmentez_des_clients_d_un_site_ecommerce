@@ -3,6 +3,9 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 19-04 08:50  
+* Modification `transform_data_type()` : gestion des dates courtes
+
 #### 19-04 00:55  
 * Analyses univariées table `order_pymts`
   
