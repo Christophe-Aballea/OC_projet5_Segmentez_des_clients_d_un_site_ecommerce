@@ -71,6 +71,9 @@
   
 ## Notebook 1 - Requêtes SQL pour dashboard  
 
+#### 20-04 15:12  
+* Changement de nom du Notebook 1 en 'P05_Notebook1_Requetes_dashboard.ipynb'
+
 #### 20-04 14:09  
 * Mise à jour du schéma relationnel  
 
