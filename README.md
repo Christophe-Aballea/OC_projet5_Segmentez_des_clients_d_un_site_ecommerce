@@ -3,6 +3,7 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+
 #### 19-04 23:20  
 * Ajouts des fichiers csv des tables  
 
@@ -64,6 +65,10 @@
 
   
 ## Notebook 1 - Requêtes SQL pour dashboard  
+
+#### 20-04 11:49  
+* Ajout partie 'Présentation du projet'
+* Ajout 'Script final'
 
 #### 16-04 19:48  
 * Correction Sommaire
