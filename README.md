@@ -3,6 +3,10 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 21-04 01:23  
+* Préparation dataframe `df_features`  
+* Ajout feature `Récence`  
+
 #### 20-04 22:52  
 * Correction schéma relationnel : cardinalité relation `orders.customer_id` 1-1 `coutomers.customer_id`
 
