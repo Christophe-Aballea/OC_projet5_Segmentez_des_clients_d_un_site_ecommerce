@@ -66,6 +66,9 @@
   
 ## Notebook 1 - Requêtes SQL pour dashboard  
 
+#### 20-04 11:51
+* Ajout fichier `dashboard_queries.sql`
+
 #### 20-04 11:49  
 * Ajout partie 'Présentation du projet'
 * Ajout 'Script final'
