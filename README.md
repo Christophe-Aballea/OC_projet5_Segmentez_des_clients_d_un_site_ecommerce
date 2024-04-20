@@ -1,7 +1,10 @@
 # OC Projet 5 - Segmentez des clients d'un site ecommerce  
 
-## Notebook 2 - Analyse exploratoire et premier feature ingineering  
+## Notebook 2 - Feature ingineering  
 
+
+#### 20-04 22:52  
+* Correction schéma relationnel : cardinalité relation `orders.customer_id` 1-1 `coutomers.customer_id`
 
 #### 20-04 14:59  
 * Dépôt du Notebook 2 'Feature ingineering' (VERSION EN COURS)
@@ -70,6 +73,9 @@
 
   
 ## Notebook 1 - Requêtes SQL pour dashboard  
+
+#### 20-04 22:52  
+* Correction schéma relationnel : cardinalité relation `orders.customer_id` 1-1 `customers.customer_id`
 
 #### 20-04 15:12  
 * Changement de nom du Notebook 1 en 'P05_Notebook1_Requetes_dashboard.ipynb'
