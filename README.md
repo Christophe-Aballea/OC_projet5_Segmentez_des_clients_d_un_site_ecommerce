@@ -3,6 +3,11 @@
 ## Notebook 2 - Analyse exploratoire et premier feature ingineering  
 
 
+#### 20-04 14:59  
+* Dépôt du Notebook 2 'Feature ingineering' <span style="color:green">Version en cours</span>
+* Présentation et des features retenues
+* Préparation de l'environnement
+* Chargement des données
 
 #### 19-04 23:20  
 * Ajouts des fichiers csv des tables  
