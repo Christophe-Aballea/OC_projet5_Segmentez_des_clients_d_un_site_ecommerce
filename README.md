@@ -4,7 +4,7 @@
 
 
 #### 20-04 14:59  
-* Dépôt du Notebook 2 'Feature ingineering' <span style="color:green">Version en cours</span>
+* Dépôt du Notebook 2 'Feature ingineering' (VERSION EN COURS)
 * Présentation et des features retenues
 * Préparation de l'environnement
 * Chargement des données
