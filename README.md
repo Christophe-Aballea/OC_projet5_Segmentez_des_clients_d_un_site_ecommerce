@@ -3,6 +3,9 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 22:28  
+* Suppression clé primaire table `order_items` sur le schéma relationnel
+
 #### 22-04 22:18  
 * Ajout début d'analyse de la table `order_items`
 * Suppression des commandes `orders.order_id` sans produits `order_items.order_id`
