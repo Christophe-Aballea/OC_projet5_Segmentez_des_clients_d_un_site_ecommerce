@@ -3,20 +3,24 @@
 ## Notebook 2 - Feature ingineering  
 
 
-#### 22-04 22:28  
+#### 22-04 00:12  
+* Calcul de la feature `Montant`  
+* Création dataframe `df_features` avec les 3 features RFM  
+
+#### 21-04 22:28  
 * Suppression clé primaire table `order_items` sur le schéma relationnel
 
-#### 22-04 22:18  
+#### 21-04 22:18  
 * Ajout début d'analyse de la table `order_items`
 * Suppression des commandes `orders.order_id` sans produits `order_items.order_id`
 
-#### 22-04 19:57  
+#### 21-04 19:57  
 * Ajout fonction `install_package()` : installation des librairies uniquement si elles ne le sont pas déjà.    
 
-#### 22-04 19:45
+#### 21-04 19:45
 * Ajout feature `Fréquence`
 
-#### 22-04 16:41  
+#### 21-04 16:41  
 * Correction de l'analyse des valeurs aberrantes de la variable `order_purchase_timestamp`
 * Restriction de la période d'étude : `order_purchase_timestamp` compris dans la plage Janvier 2017 - Août 2018
 
