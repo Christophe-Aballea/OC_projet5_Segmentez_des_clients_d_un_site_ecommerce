@@ -3,6 +3,10 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 22:18  
+* Ajout début d'analyse de la table `order_items`
+* Suppression des commandes `orders.order_id` sans produits `order_items.order_id`
+
 #### 22-04 19:57  
 * Ajout fonction `install_package()` : installation des librairies uniquement si elles ne le sont pas déjà.    
 
