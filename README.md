@@ -3,6 +3,9 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 19:57  
+* Ajout fonction `install_package()` : installation des librairies uniquement si elles ne le sont pas déjà.    
+
 #### 22-04 19:45
 * Ajout feature `Fréquence`
 
