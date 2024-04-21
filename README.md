@@ -3,8 +3,11 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 19:45
+* Ajout feature `Fréquence`
+
 #### 22-04 16:41  
-* Correction de l'analyse des valeurs aberrantes de la variables `order_purchase_timestamp`
+* Correction de l'analyse des valeurs aberrantes de la variable `order_purchase_timestamp`
 * Restriction de la période d'étude : `order_purchase_timestamp` compris dans la plage Janvier 2017 - Août 2018
 
 #### 21-04 01:23  
