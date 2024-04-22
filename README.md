@@ -3,6 +3,11 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 22-04 18:59  
+* Détermination nombre de clusters KMeans
+* Méthode du coude
+* Méthode du score de silhouette
+
 #### 22-04 11:47  
 * Chargement des données
 * Premier test KMeans avec 5 clusters
