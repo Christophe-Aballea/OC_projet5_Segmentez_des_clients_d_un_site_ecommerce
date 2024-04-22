@@ -3,6 +3,10 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 10:42  
+* Finalisation du dataset pour modèles
+* Enregistrement `df_features.csv`
+
 #### 22-04 09:41  
 * Ajout de la normalisation des features RFM
 
