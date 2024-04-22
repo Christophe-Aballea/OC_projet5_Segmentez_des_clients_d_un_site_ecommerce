@@ -1,7 +1,16 @@
 # OC Projet 5 - Segmentez des clients d'un site ecommerce  
 
+## Notebook 3 - Tests de modèles de clustering
+
+
+#### 22-04 10:59  
+* Premier dépôt du Notebook 3 'Tests de modèles de clustering'
+
+
 ## Notebook 2 - Feature ingineering  
 
+#### 22-04 10:56  
+* Dépôt fichier `df_features.csv`  
 
 #### 22-04 10:42  
 * Finalisation du dataset pour modèles
