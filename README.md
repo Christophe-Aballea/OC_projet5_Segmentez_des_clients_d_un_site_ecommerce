@@ -3,6 +3,10 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 22-04 11:47  
+* Chargement des données
+* Premier test KMeans avec 5 clusters
+
 #### 22-04 10:59  
 * Premier dépôt du Notebook 3 'Tests de modèles de clustering'
 
