@@ -3,6 +3,9 @@
 ## Notebook 2 - Feature ingineering  
 
 
+#### 22-04 09:41  
+* Ajout de la normalisation des features RFM
+
 #### 22-04 00:12  
 * Calcul de la feature `Montant`  
 * Création dataframe `df_features` avec les 3 features RFM  
