@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 23-04 08:22  
+Détermination du nombre optimal de clusters
+
 #### 22-04 23:06  
 * Méthode Calinski-Harabasz
 
