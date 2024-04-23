@@ -2,6 +2,13 @@
 
 ## Notebook 3 - Tests de modèles de clustering
 
+
+#### 23-04 22:34  
+* *Feature ingineering `Montant` (Partie 5 du Notebook 2) : ajout normalisation par quantiles*
+
+#### 23-04 17:20  
+* Détermination du nombre optimal de clusters après trnsformation logarithmique `Montant`
+
 #### 23-04 16:46
 * *Feature ingineering `Montant` (Partie 5 du Notebook 2)*
 
@@ -29,6 +36,9 @@ Détermination du nombre optimal de clusters
 
 
 ## Notebook 2 - Feature ingineering  
+
+#### 23-04 22:34
+* Normalisation par quantiles `Montant`
 
 #### 22-04 16:46  
 * Passage au log variable `Montant` (Partie 5)
