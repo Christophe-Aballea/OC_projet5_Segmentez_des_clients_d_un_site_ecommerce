@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 23-04 22:36  
+* Dépot 'df_features_2.csv'
+
 #### 23-04 22:34  
 * *Feature ingineering `Montant` (Partie 5 du Notebook 2) : ajout normalisation par quantiles*
 
