@@ -2,10 +2,12 @@
 
 ## Notebook 3 - Tests de modèles de clustering
 
+#### 23-04 16:46
+* *Feature ingineering `Montant` (Partie 5 du Notebook 2)*
 
 #### 23-04 14:06  
-Analyse des clusters  
-Conclusion du test
+* Analyse des clusters    
+* Conclusion du test  
 
 #### 23-04 08:22  
 Détermination du nombre optimal de clusters
@@ -27,6 +29,9 @@ Détermination du nombre optimal de clusters
 
 
 ## Notebook 2 - Feature ingineering  
+
+#### 22-04 16:46  
+* Passage au log variable `Montant` (Partie 5)
 
 #### 22-04 10:56  
 * Dépôt fichier `df_features.csv`  
