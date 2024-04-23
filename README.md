@@ -3,6 +3,10 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 23-04 14:06  
+Analyse des clusters  
+Conclusion du test
+
 #### 23-04 08:22  
 Détermination du nombre optimal de clusters
 
