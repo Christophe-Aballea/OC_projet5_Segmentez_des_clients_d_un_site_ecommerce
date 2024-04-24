@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 24-04 08:29  
+* Fonction `display_silhouette_scores()`  
+
 #### 24-04 08:00  
 * "Remise au propre" du notebook  
 * Fonction `plot_kelbowvisualizer_kmeans`
