@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 24-04 11:13  
+* Fonction `fit_kmeans()`
+
 #### 24-04 09:29  
 * Fonction `plot_silhouettevisualizer()`
 
@@ -11,7 +14,7 @@
 
 #### 24-04 08:00  
 * "Remise au propre" du notebook  
-* Fonction `plot_kelbowvisualizer_kmeans`
+* Fonction `plot_kelbowvisualizer_kmeans()`
 * Partie 3 : test KMeans `Montant` passé au log
 * Partie 4 : test KMeans `Montant` normalisé par quantiles
 
