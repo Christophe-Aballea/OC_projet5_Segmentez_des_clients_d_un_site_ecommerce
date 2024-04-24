@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 24-04 09:29  
+* Fonction `plot_silhouettevisualizer()`
+
 #### 24-04 08:29  
 * Fonction `display_silhouette_scores()`  
 
