@@ -3,6 +3,12 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 24-04 08:00  
+* "Remise au propre" du notebook  
+* Fonction `plot_kelbowvisualizer_kmeans`
+* Partie 3 : test KMeans `Montant` passé au log
+* Partie 4 : test KMeans `Montant` normalisé par quantiles
+
 #### 23-04 22:36  
 * Dépot 'df_features_2.csv'
 
@@ -10,7 +16,7 @@
 * *Feature ingineering `Montant` (Partie 5 du Notebook 2) : ajout normalisation par quantiles*
 
 #### 23-04 17:20  
-* Détermination du nombre optimal de clusters après trnsformation logarithmique `Montant`
+* Détermination du nombre optimal de clusters après transformation logarithmique `Montant`
 
 #### 23-04 16:46
 * *Feature ingineering `Montant` (Partie 5 du Notebook 2)*
