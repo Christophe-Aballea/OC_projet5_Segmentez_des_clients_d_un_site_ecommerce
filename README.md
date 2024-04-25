@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 25-04 12:00  
+* *Feature ingineering `Montant` (Partie 5.6 du Notebook 2) : ajout classement par tranches*
+
 #### 24-04 11:13  
 * Fonction `fit_kmeans()`
 
@@ -54,6 +57,9 @@ Détermination du nombre optimal de clusters
 
 
 ## Notebook 2 - Feature ingineering  
+
+#### 25-04 12:00  
+* Ajout feature `Montant` classée par tranches
 
 #### 23-04 22:34
 * Normalisation par quantiles `Montant`
