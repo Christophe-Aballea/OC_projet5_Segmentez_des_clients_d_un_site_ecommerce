@@ -3,6 +3,10 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 25-04 14:30  
+* Partie 5 : test KMeans `Montant` classé par tranches
+* Interprétation des 6 segments
+
 #### 25-04 12:05  
 * Fichier 'df_features_2.csv' avec classement par tranches
 
