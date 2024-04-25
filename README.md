@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 25-04 12:05  
+* Fichier 'df_features_2.csv' avec classement par tranches
+
 #### 25-04 12:00  
 * *Feature ingineering `Montant` (Partie 5.6 du Notebook 2) : ajout classement par tranches*
 
