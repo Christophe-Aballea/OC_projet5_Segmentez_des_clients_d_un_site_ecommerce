@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 26-04 18:32  
+* Suppression `df_features_2.csv`
+
 #### 26-04 18:25  
 * Dépôt `df_features.csv` complet
 
