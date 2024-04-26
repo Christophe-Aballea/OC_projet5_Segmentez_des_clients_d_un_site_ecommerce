@@ -3,6 +3,11 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 26-04 11:43  
+* Fonction `plot_elbow_nearest_neighbors()`
+* Fonction `fit_dbscan()`
+* Partie 6 : Test DBSCAN
+
 #### 25-04 14:30  
 * Partie 5 : test KMeans `Montant` classé par tranches
 * Interprétation des 6 segments
