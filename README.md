@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 26-04 18:25  
+* Dépôt `df_features.csv` complet
+
 #### 26-04 18:19  
 * *Revue du code Notebook 2 : un seul dataframe `df_features`, variables renommées pour refléter les transformations, 1 seul fichier `df_features.csv`*
 
