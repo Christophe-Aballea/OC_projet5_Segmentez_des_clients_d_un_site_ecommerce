@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 26-04 11:49  
+* Mise à jour du sommaire
+
 #### 26-04 11:43  
 * Fonction `plot_elbow_nearest_neighbors()`
 * Fonction `fit_dbscan()`
