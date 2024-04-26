@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 26-04 18:19  
+* *Revue du code Notebook 2 : un seul dataframe `df_features`, variables renommées pour refléter les transformations, 1 seul fichier `df_features.csv`*
+
 #### 26-04 11:49  
 * Mise à jour du sommaire
 
@@ -72,6 +75,9 @@ Détermination du nombre optimal de clusters
 
 
 ## Notebook 2 - Feature ingineering  
+
+#### 26-04 18:19  
+* Revue du code : un seul dataframe `df_features`, variables renommées pour refléter les transformations, 1 seul fichier `df_features.csv`
 
 #### 25-04 12:00  
 * Ajout feature `Montant` classée par tranches
