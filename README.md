@@ -3,6 +3,9 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 28-04 15:55  
+* Ajout partie 5.2.4 : Visualisation des clusters après PCA
+
 #### 28-04 11:30  
 * Revue du code :  
    * Conservation des différentes versions de la feature `Montant` dans `df_features`  
