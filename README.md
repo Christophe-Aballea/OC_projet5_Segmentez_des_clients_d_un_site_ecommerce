@@ -3,6 +3,11 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 28:04 23:47  
+* Remplacement partie 7 Test AgglomerativeClustering
+* Choix des hyperparamètres
+* Dendogrammes avec `Montant_qt` et `Montant_class_minmax`  
+
 #### 28-04 15:55  
 * Ajout partie 5.2.4 : Visualisation des clusters après PCA
 
