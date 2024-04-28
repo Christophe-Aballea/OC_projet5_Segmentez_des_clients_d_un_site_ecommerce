@@ -3,6 +3,17 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 28-04 11:30  
+* Revue du code :  
+   * Conservation des différentes versions de la feature `Montant` dans `df_features`  
+   * Ajout de la fonction `display_customer_distribution_by_cluster()`  
+   * Mise à jour des différents commentaires
+* Ajout 4.3.3 Interprétation Kmeans 5 clusters variable `Montant` normalisée par quantiles
+* Découpage des tests DBSCAN en 2 parties :
+   * 6.1 Feature `Montant` normalisée par quantiles
+   * 6.2 Feature `Montant` par tranches de montants
+* Ajout 6.3.3 Début d'explication de l'inefficacité de DBCSAN pour le cas présent 
+
 #### 26-04 18:32  
 * Suppression `df_features_2.csv`
 
