@@ -3,6 +3,11 @@
 ## Notebook 3 - Tests de modèles de clustering
 
 
+#### 28:04 13:17  
+* Ajout PCA partie 5.2.4  
+* 7.2.4 Segmentation en 3 clusters (AgglomerativeClustering)
+* 7.3 Début de conclusion AgglomerativeClustering
+
 #### 28:04 23:47  
 * Remplacement partie 7 Test AgglomerativeClustering
 * Choix des hyperparamètres
