@@ -1,9 +1,16 @@
 # OC Projet 5 - Segmentez des clients d'un site ecommerce  
 
+## Notebook 4 - Simulation d'un contrat de maintenance  
+
+
+#### 30-04 03:50  
+* Premier dépôt
+
+
 ## Notebook 3 - Tests de modèles de clustering
 
 
-#### 28:04 13:17  
+#### 29:04 13:17  
 * Ajout PCA partie 5.2.4  
 * 7.2.4 Segmentation en 3 clusters (AgglomerativeClustering)
 * 7.3 Début de conclusion AgglomerativeClustering
