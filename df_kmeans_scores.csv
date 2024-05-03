@@ -1,0 +1,6 @@
+,Version feature `Montant`,Elbow Method,Calinski-Harabasz,Davies-Bouldin k,Davies-Bouldin index,Silhouette k,Silhouette Score k
+0,Montant_log_minmax,,4.0,4,0.7341903106919038,4,0.4147277054494501
+1,Montant_qtuni_minmax,,,4,0.7807632452265336,4,0.40347193277857585
+2,Montant_qtnorm_minmax,,4.0,4,0.6815760619067113,4,0.43779567154267346
+3,Montant_boxcox_minmax,,4.0,4,0.7941800213990038,4,0.3893906656201055
+4,Montant_class_minmax,,,4,0.7586648875811448,4,0.4171893056131816
