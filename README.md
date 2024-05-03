@@ -3,8 +3,10 @@
 ## Notebook 4 - Simulation d'un contrat de maintenance  
 
 
-#### 30-04 03:50  
-* Premier dépôt
+#### 03-05 09:47  
+* Dépot P04_NB4_SCM.ipynb
+* C'est la simul contrat de maintenance qui marche pas
+* Lancer tout le début et regarder à partir du 4.2
 
 
 ## Notebook 3 - Tests de modèles de clustering
